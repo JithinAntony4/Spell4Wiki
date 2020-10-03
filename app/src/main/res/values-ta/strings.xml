@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Spell4Wiki</string>
-    <string name="login">Login</string>
-    <string name="search_here">Search</string>
-    <string name="upload">Upload</string>
-    <string name="hint_before_record">Holding to record</string>
-    <string name="alert_to_exit">Again click back to Exit</string>
-    <string name="check_internet">Please check your internet connection!</string>
-    <string name="invalid_credential">Provide Valid Username &amp; Password</string>
-    <string name="select_language">Select Language</string>
-    <string name="select_language_response_msg">Now Your Language is %s</string>
-    <string name="welcome_user">Welcome, %s</string>
-    <string name="wiktionary">Wiktionary</string>
-    <string name="settings">Settings</string>
-    <string name="logout">Logout</string>
-    <string name="about">About</string>
-    <string name="wiki_login">Wiki Login</string>
-    <string name="user_name">User name</string>
-    <string name="password">Password</string>
-    <string name="skip">SKIP</string>
-    <string name="player">player</string>
-    <string name="title_upload_audio">Upload Audio</string>
-    <string name="message_upload_info">Uploading \n\"%s\" file…</string>
-    <string name="upload_comment">%s Uploaded using Spell4Wiki app.</string>
+    <string name="login">உள்நுழைய</string>
+    <string name="search_here">தேடல்</string>
+    <string name="upload">பதிவேற்றவும்</string>
+    <string name="hint_before_record">பதிவுசெய்தல்</string>
+    <string name="alert_to_exit">வெளியேறுவதற்கு மீண்டும் கிளிக் செய்க</string>
+    <string name="check_internet">உங்கள் இணைய இணைப்பை சரிபார்க்கவும்!</string>
+    <string name="invalid_credential">செல்லுபடியாகும் பயனர்பெயரை வழங்கவும் &amp; கடவுச்சொல்</string>
+    <string name="select_language">மொழியை தேர்ந்தெடுங்கள்</string>
+    <string name="select_language_response_msg">இப்போது உங்கள் மொழி %s</string>
+    <string name="welcome_user">வரவேற்பு, %s</string>
+    <string name="wiktionary">விக்டனரி</string>
+    <string name="settings">அமைப்புகள்</string>
+    <string name="logout">வெளியேறு</string>
+    <string name="about">பற்றி</string>
+    <string name="wiki_login">விக்கி உள்நுழைவு</string>
+    <string name="user_name">பயனர் பெயர்</string>
+    <string name="password">கடவுச்சொல்</string>
+    <string name="skip">ஸ்கிப்</string>
+    <string name="player">ஆட்டக்காரர்</string>
+    <string name="title_upload_audio">ஆடியோவைப் பதிவேற்றுக</string>
+    <string name="message_upload_info">பதிவேற்றுகிறது \n\"%s\" கோப்பு…</string>
+    <string name="upload_comment">%s Spell4Wiki பயன்பாட்டைப் பயன்படுத்தி பதிவேற்றப்பட்டது.</string>
 
 
     //URL links - Don't translate
@@ -38,17 +38,17 @@
     <string name="spell4wordlist">Spell for WordList</string>
 
     <!-- App Intro Screen -->
-    <string name="app_intro_slide_1_title">Welcome</string>
-    <string name="app_intro_slide_2_title">Wiktionary Explore</string>
-    <string name="app_intro_slide_4_title">Spell For Word</string>
-    <string name="app_intro_slide_5_title">Permission Request</string>
-    <string name="app_intro_slide_3_title">Spell For Word List</string>
-    <string name="app_intro_slide_1_description">Spell4Wiki app to record and upload audios for Wiki commons.\\nAlso act as wiki dictionary.</string>
-    <string name="app_intro_slide_2_description">You can search and view words meaning form wikitionary for any languages.</string>
-    <string name="app_intro_slide_3_description">You can record and upload audios for your own word list from your device.</string>
-    <string name="app_intro_slide_4_description">You can record and upload audio for your custom word.</string>
-    <string name="app_intro_slide_5_description">Spell4Wiki requires storage and record audio permissions.\\nAllow those permissions</string>
-    <string name="hint_search">Search on wiktionary</string>
-    <string name="donate">Donate</string>
-    <string name="how_is_work">How?</string>
+    <string name="app_intro_slide_1_title">வரவேற்பு</string>
+    <string name="app_intro_slide_2_title">விக்டனரி எக்ஸ்ப்ளோர்</string>
+    <string name="app_intro_slide_4_title">வார்த்தைக்கு பேசுங்கள்</string>
+    <string name="app_intro_slide_5_title">அனுமதி கோரிக்கை</string>
+    <string name="app_intro_slide_3_title">சொல் பட்டியலுக்கான பேச்சு</string>
+    <string name="app_intro_slide_1_description">விக்கி காமன்களுக்கான ஆடியோக்களைப் பதிவுசெய்து பதிவேற்ற ஸ்பெல் 4 விக்கி பயன்பாடு.\\nமேலும், இது விக்கி அகராதியாகவும் செயல்படுகிறது.</string>
+    <string name="app_intro_slide_2_description">எந்தவொரு மொழிக்கும் படிவ விக்டனரி என்ற பொருளை நீங்கள் தேடலாம் மற்றும் பார்க்கலாம்.</string>
+    <string name="app_intro_slide_3_description">உங்கள் சாதனத்திலிருந்து உங்கள் சொந்த சொல் பட்டியலுக்கான ஆடியோவை பதிவு செய்து பதிவேற்றலாம்.</string>
+    <string name="app_intro_slide_4_description">உங்கள் தனிப்பயன் வார்த்தைக்காக ஆடியோவை பதிவு செய்து பதிவேற்றலாம்.</string>
+    <string name="app_intro_slide_5_description">Spell4Wiki க்கு சேமிப்பு மற்றும் பதிவு ஆடியோ அனுமதி தேவை.\\nஅந்த அனுமதிகளை அனுமதிக்கவும்</string>
+    <string name="hint_search">விக்டனரியில் தேடுங்கள்.</string>
+    <string name="donate">நன்கொடை</string>
+    <string name="how_is_work">எப்படி?</string>
 </resources>
